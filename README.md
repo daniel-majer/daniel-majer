@@ -13,7 +13,7 @@
 </div>
 
 <br>
-<br>
+
 <div>
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 <img align="right" alt="GIF" src="/assets/Hand coding.gif" width="360px"/>
@@ -26,6 +26,7 @@
 - 📫 How to reach me: <a href="mailto:dano.majer@protonmail.com">**dano.majer@protonmail.com**</a>
 </div>
 
+<br>
 <br>
 
 <h2>⚒️ Tools and technologies I'm working with:</h2>
