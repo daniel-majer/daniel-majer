@@ -1,4 +1,4 @@
-![Header](./assets/github-header-img.png)
+![Header](./assets/github-header-image.png)
 <!--
 **dnomjr/dnomjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
