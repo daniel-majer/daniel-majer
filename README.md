@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full-Stack Developer from Slovakia 🇸🇰</h3>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hashnode logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Hackernoon&logo=hackernoon&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackernoon logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codewars logo"  />
-  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hashnode logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Hackernoon&logo=hackernoon&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackernoon logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codewars logo"  />
+  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
 
 
 
