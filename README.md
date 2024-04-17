@@ -7,17 +7,14 @@
   <img src="https://img.shields.io/static/v1?message=Hackernoon&logo=hackernoon&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackernoon logo"  />
   <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codewars logo"  />
   <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-
-
-
 </div>
 
 <br>
 
+<div>
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 <img align="right" alt="GIF" src="/assets/Hand coding.gif" width="360px"/>
 
@@ -27,6 +24,7 @@
 - 👯 Open to new **opportunities** and collaborations.
 - 🌎 Fluent in **Slovak & Czech** 📖, and polishing up my **English** skills every day 🌟.
 - 📫 How to reach me: <a href="mailto:dano.majer@protonmail.com">**dano.majer@protonmail.com**</a>
+</div>
 
 <br>
 
