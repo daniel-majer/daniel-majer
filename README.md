@@ -1,13 +1,10 @@
 ![Header](./assets/cover.png)
+<h2>📊 Github Stats</h2>
 <div align="center">
   <img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnomjr&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=dnomjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dnomjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zy8712/zy8712/raw/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/zy8712/zy8712/raw/output/github-snake.svg">
-      <img alt="snk" src="https://github.com/zy8712/zy8712/raw/output/github-snake.svg">
-    </picture>
+  <img src="https://komarev.com/ghpvc/?username=dnomjr&color=1e3050&style=flat" alt="ecemgo"/>
 </div>
 
 <!--
