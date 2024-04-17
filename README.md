@@ -19,10 +19,15 @@
 <img align="right" alt="GIF" src="/assets/Hand coding.gif" width="360px"/>
 
 - 🗺️ I’m based in **Prague, Czech Republic**.
+  
 - 👨🏽‍💻 I’m currently working on becoming a **Full-Stack Dev**.
+  
 - 🔭 Currently learning **JavaScript** and **React**.
+  
 - 👯 Open to new **opportunities** and collaborations.
+  
 - 🌎 Fluent in **Slovak & Czech** 📖, and polishing up my **English** skills every day 🌟.
+  
 - 📫 How to reach me: <a href="mailto:dano.majer@protonmail.com">**dano.majer@protonmail.com**</a>
 </div>
 
