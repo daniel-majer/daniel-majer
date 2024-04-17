@@ -3,23 +3,18 @@
 <h3 align="center">A passionate Full-Stack Developer from Slovakia 🇸🇰</h3>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="/assets/Static%20assets.gif" width="360px"/>
+<img align="right" alt="GIF" src="/assets/Hand coding.gif" width="360px"/>
 
-- 🗺️ I’m based in **São Paulo - Brazil**.
+- 🗺️ I’m based in **Prague, Czech Republic**.
   
-- 👨🏽‍💻 I’m a **Front-End Developer** with over a year of hands-on experience.
+- 👨🏽‍💻 I’m currently working on becoming a **Full-Stack Dev**.
   
-- 🔭 I’m currently studying **JavaScript**, **Typescript** and **React** at [**Alura**](https://www.alura.com.br/).
-  
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/danielmrz-dev)!.
+- 🔭 I’m currently studying **JavaScript** and **React**.
   
 - 👯 I’m open to new **opportunities** and collaborations.
   
-- 🌎 Fluent in **Portuguese** and **English**.
-  
-- 📫 How to reach me: <a href="mailto:danielmrz.dev@gmail.com">**danielmrz.dev@gmail.com**</a>
-  
-- 📲 You can also find me on my <a href="https://www.linkedin.com/in/danielmrz-dev/">**LinkedIn**</a> or <a href="https://twitter.com/danielmrz_dev">**Twitter**</a>.
+- 🌎 Fluent in **Slovak & Czech** 📖, and polishing up my **English** skills every day 🌟.
+- 📫 How to reach me: <a href="mailto:dano.majer@protonmail.com">**dano.majer@protonmail.com**</a>
 
 <br>
 
