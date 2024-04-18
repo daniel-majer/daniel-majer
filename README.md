@@ -1,6 +1,6 @@
 ![Header](./assets/cover.png)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate Full-Stack Developer from Slovakia 🇸🇰</h3>
+<h3 align="center">A passionate Full-Stack Developer & coffee ☕ lover from Slovakia 🇸🇰</h3>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hashnode logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
@@ -45,18 +45,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<br>
-
 ## 🏆 Goals:
-
 - 🚀 Gain experience in developing full-stack applications using **MERN stack** (MongoDB, Express, React, Node).
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 - 📰 Write interesting/helpful articles on Hashnode / Dev.to
 - 🚀 Expand my horizons. Learn new technologies & languages I haven't used before such as: Vue, C++, Python etc.
-
-
-
-
 
 ## 📊 Github Stats
 <div align="left">
@@ -65,7 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dnomjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <img src="https://komarev.com/ghpvc/?username=dnomjr&color=1e3050&style=plastic" alt="ecemgo"/>
-
 
 <!--
 **dnomjr/dnomjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
