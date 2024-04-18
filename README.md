@@ -25,7 +25,7 @@
 
 <div>
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="/assets/Hand coding.gif#gh-light-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="/assets/Hand coding.gif#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
 
 - 🗺️ I’m based in **Prague, Czech Republic**.
