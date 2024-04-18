@@ -61,6 +61,9 @@
 - 📰 Write interesting/helpful articles on **Hashnode / Dev.to**.
 - 🚀 Expand my horizons. Learn new technologies & languages I haven't used before such as: **Vue, C++, Python etc.**
 
+## Codewars & Leetcode
+![Codewars](https://github.r2v.ch/codewars?user=dnomjr&stroke=%23BB432C)
+
 ## 📊 Github Stats
 <div align="left">
   <img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnomjr&theme=tokyonight" />
