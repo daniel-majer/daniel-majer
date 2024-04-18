@@ -44,14 +44,14 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
+<br>
 ## 🏆 Goals:
 
-- 🚀 Gain experience in developing full-stack applications using **MERN stack**(MongoDB, Express, React, Node).
+- 🚀 Gain experience in developing full-stack applications using **MERN stack** (MongoDB, Express, React, Node).
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 - 📰 Write interesting/helpful articles on Hashnode / Dev.to
 - 🚀 Expand my horizons. Learn new technologies & languages I haven't used before such as: Vue, C++, Python etc.
-
+<br>
 ## 📊 Github Stats
 <div align="left">
   <img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnomjr&theme=tokyonight" />
