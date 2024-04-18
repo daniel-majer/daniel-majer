@@ -62,8 +62,8 @@
 - 🔎 Expand my horizons. Learn new technologies & languages I haven't used before such as: **Vue, C++, Python etc.**
 
 ## 📈 Codewars & Leetcode stats
-![Codewars](https://github.r2v.ch/codewars?user=dnomjr&stroke=%231e3050)
-![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord&font=Ubuntu)
+![Codewars](https://github.r2v.ch/codewars?user=dnomjr&stroke=%231e3050) <br/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Ubuntu)
 
 ## 📊 Github Stats
 <div>
