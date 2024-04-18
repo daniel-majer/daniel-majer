@@ -63,6 +63,7 @@
 
 ## Codewars & Leetcode
 ![Codewars](https://github.r2v.ch/codewars?user=dnomjr&stroke=%23BB432C)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Ubuntu)
 
 ## 📊 Github Stats
 <div align="left">
