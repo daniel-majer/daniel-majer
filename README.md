@@ -37,9 +37,10 @@
 
 ## 🏆 Goals:
 
-- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
+- 🚀 Gain experience in developing full-stack applications using **React/NextJS** and **Node.js**.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
-- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+- 📰 Write interesting/helpful articles on Hashnode / Dev.to
+- 🚀 Expand my horizons. Learn new technologies & languages I haven't used before such as: MongoDB, Vue, C++, and Python
 
 ## 📊 Github Stats
 <div align="left">
