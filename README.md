@@ -9,13 +9,13 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  /></a>
    <a href="#">
  <img src="https://img.shields.io/static/v1?message=Hackernoon&logo=hackernoon&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackernoon logo"  /></a>
-  <a href="#">
+  <a href="https://www.codewars.com/users/dnomjr">
   <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codewars logo"  /></a>
-  <a href="#">
+  <a href="https://leetcode.com/dnomjr/">
   <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  /></a>
   <a href="https://www.linkedin.com/in/daniel-majer/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
-  <a href="#">
+  <a href="https://twitter.com/dnomjr">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
   <a href="https://www.instagram.com/dno.mjr/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
