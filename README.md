@@ -2,13 +2,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full-Stack Developer from Slovakia 🇸🇰</h3>
 <div align="center">
-  <a href="#">
-  <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hashnode logo"  />
-  </a>
-    <a href="#">
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  /></a>
-   <a href="#">
- <img src="https://img.shields.io/static/v1?message=Hackernoon&logo=hackernoon&label=&color=green&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackernoon logo"  /></a>
   <a href="https://www.codewars.com/users/dnomjr">
   <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codewars logo"  /></a>
   <a href="https://leetcode.com/dnomjr/">
