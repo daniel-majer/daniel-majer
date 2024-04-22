@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full-Stack Developer from Slovakia 🇸🇰</h3>
 <div align="center">
+  <a href="https://www.frontendmentor.io/profile/dnomjr">
+  <img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white" height="30" alt="frontendmentor logo"  /></a>
   <a href="https://www.codewars.com/users/dnomjr">
   <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codewars logo"  /></a>
   <a href="https://leetcode.com/dnomjr/">
