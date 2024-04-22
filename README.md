@@ -2,18 +2,18 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full-Stack Developer from Slovakia 🇸🇰</h3>
 <div align="center">
-  <a href="https://www.frontendmentor.io/profile/dnomjr">
-  <img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white" height="30" alt="frontendmentor logo"  /></a>
-  <a href="https://www.codewars.com/users/dnomjr">
-  <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codewars logo"  /></a>
-  <a href="https://leetcode.com/dnomjr/">
-  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  /></a>
   <a href="https://twitter.com/dnomjr">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
   <a href="https://www.linkedin.com/in/daniel-majer/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
   <a href="https://www.instagram.com/dno.mjr/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
+  <a href="https://www.codewars.com/users/dnomjr">
+  <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codewars logo"  /></a>
+  <a href="https://leetcode.com/dnomjr/">
+  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  /></a>
+  <a href="https://www.frontendmentor.io/profile/dnomjr">
+  <img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white" height="30" alt="frontendmentor logo"  /></a>
 </div>
 
 <br>
