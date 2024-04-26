@@ -54,7 +54,6 @@
 ## 🏆 Goals
 - 🚀 Gain experience in developing full-stack applications using **MERN stack** (MongoDB, Express, React, Node).
 - 🌐 Improve my knowledge of **web accessibility standards** and incorporate them into my projects.
-- 📰 Write interesting/helpful articles on **Hashnode / Dev.to**.
 - 🔎 Expand my horizons. Learn new technologies & languages I haven't used before such as: **Vue, C++, Python etc.**
 
 <br>
