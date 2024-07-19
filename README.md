@@ -58,9 +58,9 @@
 
 <br>
 
-## 📈 Codewars & Leetcode stats
+## 📈 Codewars stats
 ![Codewars](https://github.r2v.ch/codewars?user=dnomjr&stroke=%231e3050)
-![LeetCode Stats](https://leetcard.jacoblin.cool/dnomjr?theme=dark&font=Ubuntu)
+/*![LeetCode Stats](https://leetcard.jacoblin.cool/dnomjr?theme=dark&font=Ubuntu)*/
 
 ## 📊 Github Stats
 <div>
