@@ -1,4 +1,4 @@
-![Header](./assets/cover.png)
+![Header](./assets/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full-Stack Developer from Slovakia 🇸🇰</h3>
 <div align="center">
