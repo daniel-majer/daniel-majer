@@ -1,9 +1,7 @@
-![Header](./assets/cover.png)
+![Header](./assets/cover.png) 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full-Stack Developer from Slovakia 🇸🇰</h3>
 <div align="center">
-  <a href="https://twitter.com/dnomjr">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
   <a href="https://www.linkedin.com/in/daniel-majer/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
   <a href="https://www.instagram.com/dno.mjr/">
@@ -59,16 +57,16 @@
 <br>
 
 ## 📈 Codewars stats
-![Codewars](https://github.r2v.ch/codewars?user=dnomjr&stroke=%231e3050)
+![Codewars](https://github.r2v.ch/codewars?user=daniel-majer&stroke=%231e3050)
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/dnomjr?theme=dark&font=Ubuntu) -->
 
 ## 📊 Github Stats
 <div>
-  <img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnomjr&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dnomjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dnomjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-majer&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-majer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-majer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<img src="https://komarev.com/ghpvc/?username=dnomjr&color=1e3050&style=plastic" alt="ecemgo"/>
+<img src="https://komarev.com/ghpvc/?username=daniel-majer&color=1e3050&style=plastic" alt="ecemgo"/>
 
 <!--
 **dnomjr/dnomjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
