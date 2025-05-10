@@ -14,16 +14,6 @@
 
 <br>
 
-<div>
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) 
-<img align="right" alt="GIF" src="/assets/Hand coding.gif#gh-light-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/> --->
-  
-- 📫 How to reach me: <a href="mailto:dano.majer@protonmail.com">**dano.majer@protonmail.com**</a>
-</div>
-
-<br>
-
 ## ⚒️ Tools and technologies I'm working with
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
@@ -55,6 +45,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-majer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <img src="https://komarev.com/ghpvc/?username=daniel-majer&color=1e3050&style=plastic" alt="ecemgo"/>
+
+<div>
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) 
+<img align="right" alt="GIF" src="/assets/Hand coding.gif#gh-light-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/> --->
+  
+- 📫 How to reach me: <a href="mailto:dano.majer@protonmail.com">**dano.majer@protonmail.com**</a>
+</div>
 
 <!--
 **dnomjr/dnomjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
