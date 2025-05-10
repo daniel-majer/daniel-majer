@@ -27,12 +27,12 @@
 
 <br>
 
-## 🏆 Goals
+<!-- ## 🏆 Goals
 - 🚀 Gain experience in developing full-stack applications using **MERN stack** (MongoDB, Express, React, Node).
 - 🌐 Improve my knowledge of **web accessibility standards** and incorporate them into my projects.
 - 🔎 Expand my horizons. Learn new technologies & languages I haven't used before such as: **Vue, C++, Python etc.**
 
-<br>
+<br> --->
 
 ## 📈 Codewars stats
 ![Codewars](https://github.r2v.ch/codewars?user=dnomjr&stroke=%231e3050)
