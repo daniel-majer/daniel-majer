@@ -1,6 +1,6 @@
 <!--- ![Header](./assets/cover.png) --->
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate Frontend Developer from Slovakia 🇸🇰</h3>
+<h3 align="center">A passionate Software Engineer from Slovakia 🇸🇰</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-majer/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
