@@ -17,6 +17,7 @@
 - 🧰 Tools: `React Hook Form`, `VS Code`, `Figma`, `Git`, `Vercel`
  
 <br>
+<br>
 <p align="right">
   <a href="https://github.com/daniel-majer">
     <img src="https://komarev.com/ghpvc/?username=daniel-majer&color=1e3050&style=plastic" alt="ecemgo"/>
