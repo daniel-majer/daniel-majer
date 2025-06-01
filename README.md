@@ -15,14 +15,6 @@
 - 🔌 State Management: `TanStack Query`, `Zustand`, `Redux`
 - 📦 Backend *(learning)*: `Node.js`, `NestJS`, `Prisma`, `PostgreSQL`, `Supabase`
 - 🧰 Tools: `React Hook Form`, `VS Code`, `Figma`, `Git`, `Vercel`
- 
-<br>
-<br>
-<p align="right">
-  <a href="https://github.com/daniel-majer">
-    <img src="https://komarev.com/ghpvc/?username=daniel-majer&color=1e3050&style=plastic" alt="ecemgo"/>
-  </a>
-</p>
 
 
 <!--## 📊 Github Stats
@@ -31,7 +23,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=daniel-majer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-majer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<img src="https://komarev.com/ghpvc/?username=daniel-majer&color=1e3050&style=plastic" alt="ecemgo"/>-->
+<img src="https://komarev.com/ghpvc/?username=daniel-majer&color=1e3050&style=plastic" alt="ecemgo"/>
+
+<br>
+
+<p align="right">
+  <a href="https://github.com/daniel-majer">
+    <img src="https://komarev.com/ghpvc/?username=daniel-majer&color=1e3050&style=plastic" alt="ecemgo"/>
+  </a>
+</p>
+
+-->
 
 
 <!--
