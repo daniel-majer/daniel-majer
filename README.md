@@ -14,7 +14,7 @@
 - 💻 Frontend: `React`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`
 - 🔌 State Management: `TanStack Query`, `Zustand`, `Redux`
 - 📦 Backend *(learning)*: `Node.js`, `NestJS`, `Prisma`, `PostgreSQL`, `Supabase`
-- 🧰 Tools: `React Hook Form`, `VS Code`, `Figma`, `Git`, `Vercel`
+- 🧰 Tools: `React Hook Form`, `shadcn/ui`, `VS Code`, `Figma`, `Git`, `Vercel`
 
 
 <!--## 📊 Github Stats
