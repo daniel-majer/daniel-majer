@@ -1,9 +1,9 @@
 <h1 align="left" id="macropower-title">Hey 👋, I'm Daniel</h1>
 
->Frontend software engineer focused on building clean, scalable, and user-friendly web apps.
+>Software engineer focused on building clean, scalable, and user-friendly web apps.
 >  
 >Driven by curiosity and a love for shipping real products, I enjoy turning ideas into useful, elegant digital experiences.  
->Currently learning more about backend architecture and improving my full-stack skills with Node.js, Express, and Prisma.
+>Currently learning more about backend architecture and improving my full-stack skills with Node.js, Express, PostgreSQL, Prisma and AWS.
 
 ## ⚡ Technologies
 
