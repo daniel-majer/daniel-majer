@@ -3,7 +3,7 @@
 >Frontend software engineer focused on building clean, scalable, and user-friendly web apps.
 >  
 >Driven by curiosity and a love for shipping real products, I enjoy turning ideas into useful, elegant digital experiences.  
->Currently learning more about backend architecture and improving my full-stack skills with Node.js, NestJS, and Prisma.
+>Currently learning more about backend architecture and improving my full-stack skills with Node.js, Express, and Prisma.
 
 ## ⚡ Technologies
 
