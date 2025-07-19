@@ -13,8 +13,8 @@
 
 - 💻 Frontend: `React`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`
 - 🔌 State Management: `TanStack Query`, `Zustand`, `Redux`
-- 📦 Backend *(learning)*: `Node.js`, `NestJS`, `Prisma`, `PostgreSQL`, `Supabase`
-- 🧰 Tools: `React Hook Form`, `shadcn/ui`, `VS Code`, `Figma`, `Git`, `Vercel`
+- 📦 Backend: `Node.js`, `Express`, `Prisma`, `PostgreSQL`, `Supabase`
+- 🧰 Tools: `React Hook Form`, `shadcn/ui`, `Oslo`, `Zod`, `Git`, `AWS`, `Vercel`
 
 
 <!--## 📊 Github Stats
