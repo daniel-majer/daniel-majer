@@ -1,7 +1,6 @@
 <h1 align="left" id="macropower-title">Hey 👋, I'm Daniel</h1>
 
 >Software engineer focused on building clean, scalable, and user-friendly web apps.
->  
 >Driven by curiosity and a love for shipping real products, I enjoy turning ideas into useful, elegant digital experiences.
 
 ## ⚡ Technologies
