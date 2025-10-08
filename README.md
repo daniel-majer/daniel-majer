@@ -2,8 +2,7 @@
 
 >Software engineer focused on building clean, scalable, and user-friendly web apps.
 >  
->Driven by curiosity and a love for shipping real products, I enjoy turning ideas into useful, elegant digital experiences.  
->Currently learning more about backend architecture and improving my full-stack skills with Node.js, Express, PostgreSQL, Prisma and AWS.
+>Driven by curiosity and a love for shipping real products, I enjoy turning ideas into useful, elegant digital experiences.
 
 ## ⚡ Technologies
 
@@ -11,10 +10,10 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-majer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </a>
 
-- 💻 Frontend: `React`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`
+- 💻 Frontend: `React`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `shadcn/ui`
 - 🔌 State Management: `TanStack Query`, `Zustand`, `Redux`
-- 📦 Backend: `Node.js`, `Express`, `Prisma`, `PostgreSQL`, `Supabase`
-- 🧰 Tools: `React Hook Form`, `shadcn/ui`, `Oslo`, `Zod`, `Git`, `AWS`, `Vercel`
+- 📦 Backend: `Node.js`, `Nest`, `Prisma`, `Drizzle`, `PostgreSQL`, `Supabase`
+- 🧰 Tools: `React Hook Form`, `Oslo`, `BetterAuth`, `Inngest`, `Zod`, `Git`, `AWS`, `Vercel`
 
 
 <!--## 📊 Github Stats
