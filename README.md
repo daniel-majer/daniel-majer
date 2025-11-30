@@ -12,7 +12,7 @@
 - 💻 Frontend: `React`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Shadcn/ui`
 - 🔌 State Management: `TanStack Query`, `Zustand`, `Redux`
 - 📦 Backend: `PostgreSQL`, `Prisma`, `Drizzle`, `NeonDB`, `Supabase`, `DynamoDB`
-- 🧰 Tools: `React Hook Form`, `nuqs`, `Oslo`, `BetterAuth`, `Inngest`, `Zod`, `Git`, `AWS`, `Vercel`
+- 🧰 Tools: `React Hook Form`, `nuqs`, `Oslo`, `BetterAuth`, `Inngest`, `Zod`, `Git`, `Vercel`
 - 🧠 Currently learning: `Node.js`, `Nest`
 
 
