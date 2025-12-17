@@ -11,7 +11,7 @@
 
 - 💻 Frontend: `React`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Shadcn/ui`
 - 🔌 State Management: `TanStack Query`, `Zustand`, `Redux`
-- 📦 Backend: `Node.js`, `Nest`
+- 📦 Backend: `Node.js`, `NestJS`
 - 🧠 Database: `PostgreSQL`, `Prisma`, `Drizzle`, `NeonDB`, `Supabase`, `DynamoDB`
 - 🧰 Tools: `React Hook Form`, `nuqs`, `Oslo`, `BetterAuth`, `Inngest`, `Zod`, `Git`, `Vercel`
 
