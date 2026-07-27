@@ -13,7 +13,7 @@
 - 🔌 State Management: `TanStack Query`, `Zustand`, `Redux`
 - 📦 Backend: `Node.js`, `NestJS`
 - 🧠 Database: `PostgreSQL`, `Prisma`, `Drizzle`, `NeonDB`, `Supabase`, `DynamoDB`
-- 🧰 Tools: `Docker Compose`, `React Hook Form`, `nuqs`, `Oslo`, `BetterAuth`, `Inngest`, `Zod`, `Git`, `Vercel`
+- 🧰 Tools: `Docker Compose`, `React Hook Form`, `nuqs`, `Orval`, `BetterAuth`, `Inngest`, `Zod`, `Git`, `Vercel`
 
 
 <!--## 📊 Github Stats
