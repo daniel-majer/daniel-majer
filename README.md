@@ -9,9 +9,9 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-majer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </a>-->
 
-- 💻 Frontend: `React`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Shadcn/ui`
-- 🔌 State Management: `TanStack Query`, `Zustand`, `Redux`
-- 📦 Backend: `Node.js`, `NestJS`
+- 💻 Languages: `TypeScript`, `JavaScript`, `Python`
+- 🎨 Frontend: `React`, `Next.js`, `Tailwind CSS`, `Shadcn/ui`
+- 📦 Backend: `Node.js`, `NestJS`, `Express.js`
 - 🧠 Database: `PostgreSQL`, `Prisma`, `Drizzle`, `NeonDB`, `Supabase`, `DynamoDB`
 - 🧰 Tools: `Docker Compose`, `React Hook Form`, `Nuqs`, `Orval`, `BetterAuth`, `Inngest`, `Zod`, `Git`, `Vercel`
 
