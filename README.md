@@ -10,10 +10,9 @@
 </a>-->
 
 - 💻 Programming Languages: `TypeScript`, `JavaScript`, `Python`
-- 🎨 Frontend: `React`, `Next.js`, `Tailwind CSS`, `Shadcn/ui`
-- 📦 Backend: `Node.js`, `NestJS`, `Express.js`
-- 🧠 Database: `PostgreSQL`, `Prisma`, `Drizzle`, `NeonDB`, `Supabase`, `DynamoDB`
-- 🧰 Tools: `Docker Compose`, `React Hook Form`, `Nuqs`, `Orval`, `BetterAuth`, `Inngest`, `Zod`, `Git`, `Vercel`
+- 🎨 Technologies: `React`, `Next.js`, `Node.js`, `NestJS`
+- 🧠 Databases: `PostgreSQL`, `Prisma`, `Drizzle`, `NeonDB`, `Supabase`
+- 🧰 Tools: `Docker`, `Orval`, `BetterAuth`, `Inngest`, `Vercel`, `Git`, 
 
 
 <!--## 📊 Github Stats
