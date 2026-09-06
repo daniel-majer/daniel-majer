@@ -3,7 +3,7 @@
 >Software engineer focused on building clean, scalable, and user-friendly web apps.
 >Driven by curiosity and a love for shipping real products, I enjoy turning ideas into useful, elegant digital experiences.
 
-## ⚡ Technologies
+## ⚡ Tech Stack
 
 <!--<a href="#daniel-majer-title">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-majer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
