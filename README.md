@@ -9,7 +9,7 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-majer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </a>-->
 
-- 💻 Languages: `TypeScript`, `JavaScript`, `Python`
+- 💻 Programming Languages: `TypeScript`, `JavaScript`, `Python`
 - 🎨 Frontend: `React`, `Next.js`, `Tailwind CSS`, `Shadcn/ui`
 - 📦 Backend: `Node.js`, `NestJS`, `Express.js`
 - 🧠 Database: `PostgreSQL`, `Prisma`, `Drizzle`, `NeonDB`, `Supabase`, `DynamoDB`
