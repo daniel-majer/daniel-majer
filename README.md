@@ -9,7 +9,7 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-majer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </a>-->
 
-- 💻 Programming Languages: `TypeScript`, `JavaScript`, `Python`
+- 💻 Programming Languages: `TypeScript`, `JavaScript`
 - 🎨 Technologies: `React`, `Next.js`, `Node.js`, `NestJS`
 - 🧠 Databases: `PostgreSQL`, `Prisma`, `Drizzle`, `NeonDB`, `Supabase`
 - 🧰 Tools: `Docker`, `Orval`, `BetterAuth`, `Inngest`, `Vercel`, `Git`, 
